@@ -1,8 +1,14 @@
 body {
-	font-family: 'Roboto', sans-serif;
-	zoom: 150%;
+	font-family: 'Arial', sans-serif;
+	zoom: 160%;
+	background-color: #2E3440;
+	color: #D7DDE8;
 }
 img {
 	width: 300px;
 	height: auto;
+}
+a {
+	color: #8ec5de;
+	font-weight: bold;
 }
